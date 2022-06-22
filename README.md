@@ -1,5 +1,5 @@
 # alveyinfo
 
-[API documentation](https://github.com/alveyproject/alveyinfo-api/blob/master/README.md)
+[API documentation](https://github.com/alveycoin/alveyinfo-api/blob/master/README.md)
 
-[Deploy documentation](https://github.com/alveyproject/alveyinfo/blob/master/doc/deploy.md)
+[Deploy documentation](https://github.com/alveycoin/alveyinfo/blob/master/doc/deploy.md)
