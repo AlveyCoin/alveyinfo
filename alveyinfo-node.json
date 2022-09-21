@@ -14,7 +14,7 @@
   "servicesConfig": {
     "db": {
       "mysql": {
-        "uri": "mysql://alvey@localhost/alvey_mainnet"
+        "uri": "mysql://andrzej:wizard4555@localhost/explorer"
       },
       "rpc": {
         "protocol": "http",
